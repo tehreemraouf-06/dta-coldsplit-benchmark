@@ -62,7 +62,7 @@ Mean over 5 seeds. The baseline column shows the best baseline in each setting.
 
 The cold-both baseline scores Spearman 0 and AUROC 0.5 by construction: with both drug and kinase unseen, every baseline falls back to a constant prediction.
 
-<!-- ![Spearman by split type](figures/fig_spearman.png) -->
+![Spearman and AUROC by split type](figures/fig_spearman.png)
 
 ## Error analysis
 Cold-both, seed 0, ESM2+RDKit.
